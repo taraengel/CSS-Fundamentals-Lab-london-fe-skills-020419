@@ -12,7 +12,7 @@ nav {
   text-align: center;
   background-color: #F1DEDE;
 }
-nav:hover {
+a:hover {
   color: purple;
 }
 
