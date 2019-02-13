@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  background-color: #F1DEDE;
+}
+nav:hover {
+  color: purple;
+}
+
+img {
+  margin-left: 15%;
+}
+
+figcaption {
+  text-align: center;
+}
+
+ p#featured-property {
+    width: 800px;
+    text-align: center;
+}
+
+#details {
+  display: block;
+}
+
+div {
+  background-color: #F1DEDE;
+  text-align: center;
+  width: 25%;
+}
