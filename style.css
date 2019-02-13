@@ -10,9 +10,14 @@ h1 {
 
 nav {
   text-align: center;
+}
+
+a {
+  margin-left: 10px;
+  margin-right: 10px;
   background-color: #F1DEDE;
 }
-nav:hover {
+a:hover {
   color: purple;
 }
 
@@ -24,14 +29,18 @@ figcaption {
   text-align: center;
 }
 
- p#featured-property {
+ #featured-property p {
     width: 800px;
     text-align: center;
+    margin-left: 300px;
 }
 
-#details {
+#details div {
   display: block;
+  float: left;
+  
 }
+
 
 div {
   background-color: #F1DEDE;
