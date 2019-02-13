@@ -34,12 +34,9 @@ figcaption {
     text-align: center;
 }
 
-#details {
+#details div {
   display: block;
-  div {
-    float: left;
-  }
-  
+  float: left;
   
 }
 
